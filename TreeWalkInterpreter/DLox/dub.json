@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Stefan Ilic"
+	],
+	"copyright": "Copyright © 2022, Stefan Ilic",
+	"description": "Lox implementation",
+	"license": "proprietary",
+	"name": "dlox"
+}
